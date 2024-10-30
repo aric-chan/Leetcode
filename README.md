@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aric-chan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aric-chan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/aric-chan/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aric-chan/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -26,16 +27,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aric-chan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aric-chan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/aric-chan/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aric-chan/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aric-chan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aric-chan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/aric-chan/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aric-chan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/aric-chan/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Stack
 |  |
 | ------- |
