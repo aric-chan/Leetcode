@@ -72,4 +72,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aric-chan/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/aric-chan/Leetcode/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/aric-chan/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
