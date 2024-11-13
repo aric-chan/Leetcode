@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aric-chan/Leetcode/tree/master/0001-two-sum) |
 | [1580-shuffle-the-array](https://github.com/aric-chan/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/aric-chan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/aric-chan/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aric-chan/Leetcode/tree/master/0001-two-sum) |
 | [1635-number-of-good-pairs](https://github.com/aric-chan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aric-chan/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
