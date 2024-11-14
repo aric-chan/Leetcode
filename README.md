@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aric-chan/Leetcode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1580-shuffle-the-array](https://github.com/aric-chan/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/aric-chan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/aric-chan/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -107,16 +108,38 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aric-chan/Leetcode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/aric-chan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/aric-chan/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aric-chan/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/aric-chan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/aric-chan/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Matrix
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/aric-chan/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
