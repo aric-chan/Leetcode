@@ -4,19 +4,17 @@ public:
         int left = 0;
         int right = height.size() - 1;
 
-        int areasofar = (right - left) * min(height[left],height[right]);
-        int maxarea = areasofar;
+        // int areasofar = (right - left) * min(height[left],height[right]);
+        int maxarea = 0;
 
         while(left < right) {
-            if(areasofar > maxarea) {
-                maxarea = areasofar;
-            }
+            maxarea = max(maxarea, (right - left) * min(height[left],height[right]));
             if(height[left] <= height[right]){
                 left++;
             } else {
                 right--;
             }
-            areasofar = (right - left) * min(height[left],height[right]);
+            
         }
         return maxarea;
 
