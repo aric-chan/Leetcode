@@ -7,7 +7,10 @@ public:
         int maxarea = 0;
 
         while(left < right) {
-            maxarea = max(maxarea, (right - left) * min(height[left],height[right]));
+            if(maxarea < (right - left) * min(height[left],height[right])) {
+                maxarea = (right - left) *min(height[left],height[right]);
+            }
+            // maxarea = max(maxarea, (right - left) * min(height[left],height[right]));
             if(height[left] <= height[right]){
                 left++;
             } else {
