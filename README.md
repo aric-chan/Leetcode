@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aric-chan/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aric-chan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aric-chan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1580-shuffle-the-array](https://github.com/aric-chan/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -148,6 +149,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aric-chan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/aric-chan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aric-chan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aric-chan/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
