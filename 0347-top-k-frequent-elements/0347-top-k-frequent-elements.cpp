@@ -9,11 +9,11 @@ public:
         }
         for(auto e : freqMap){
             order.insert({e.second,e.first});
-            cout << e.second << e.first << endl;
+            // cout << e.second << e.first << endl;
         }
 
         for(auto i = order.rbegin(); i != order.rend(); i++) {
-            cout<<"order"<<i->first<<i->second<<endl;
+            // cout<<"order"<<i->first<<i->second<<endl;
             if(k!=0) {
                 result.push_back(i->second);
             } else {
