@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aric-chan/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/aric-chan/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aric-chan/Leetcode/tree/master/0344-reverse-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aric-chan/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/aric-chan/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/aric-chan/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aric-chan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aric-chan/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/aric-chan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/aric-chan/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/aric-chan/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/aric-chan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aric-chan/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/aric-chan/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
