@@ -1,13 +1,13 @@
 class Solution {
 public:
     int findClosestNumber(vector<int>& nums) {
+        //O(n)
         int closestsofar = nums[0];
         for(auto n : nums) {
             if(abs(closestsofar) > abs(n)) {
                 closestsofar = n;
             }
         }
-
         for(auto n : nums){
             if(closestsofar + n == 0 && n > closestsofar) {
                 closestsofar = n;
