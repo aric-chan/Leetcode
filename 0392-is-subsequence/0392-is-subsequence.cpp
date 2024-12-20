@@ -8,12 +8,10 @@ public:
         int end = s.length() - 1;
 
         while(!stackT.empty() && end >= 0){
-            if(stackT.top() != s.at(end)) {
-                stackT.pop();
-            } else {
-                stackT.pop();
+            if(stackT.top() == s.at(end)) {
                 end--;
             }
+            stackT.pop();
         }
         if(end < 0){
             return true;
