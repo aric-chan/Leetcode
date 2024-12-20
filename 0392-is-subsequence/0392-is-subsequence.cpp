@@ -6,7 +6,7 @@ public:
             stackT.push(c);
         }
         int end = s.length() - 1;
-        if(end < 0) return true;
+
         while(!stackT.empty() && end >= 0){
             if(stackT.top() != s.at(end)) {
                 stackT.pop();
