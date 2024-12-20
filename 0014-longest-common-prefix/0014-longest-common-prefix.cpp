@@ -16,7 +16,7 @@ public:
                     flag = false;
                 }
             }
-            if(flag == true){
+            if(flag){
                 result += word.at(count);
                 count++;
             } else {
