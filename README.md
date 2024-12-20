@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/aric-chan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aric-chan/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aric-chan/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/aric-chan/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/aric-chan/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aric-chan/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/aric-chan/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -174,10 +175,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/aric-chan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aric-chan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/aric-chan/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/aric-chan/Leetcode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/aric-chan/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/aric-chan/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aric-chan/Leetcode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/aric-chan/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
