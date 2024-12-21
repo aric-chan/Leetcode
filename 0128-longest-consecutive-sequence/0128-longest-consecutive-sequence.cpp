@@ -2,12 +2,11 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         map<int, int> arrayMap;
-        vector<int> array;
         if(nums.size() == 0) return 0;
         for(int n : nums){
             arrayMap[n]++;
         }
-
+        vector<int> array(arrayMap.size(), 1);
         for(auto i = arrayMap.begin(); i != arrayMap.end(); i++){
             array.push_back(i->first);
         }
