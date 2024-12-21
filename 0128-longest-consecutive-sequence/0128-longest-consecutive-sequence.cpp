@@ -15,8 +15,6 @@ public:
         int maxCount = 1;
         for(int i = 1; i < array.size() ; i++){
             if(array[i] - array[i - 1] == 1){
-                cout<<"count"<<count<<endl;
-                cout<<"array[i]"<<array[i]<<endl;
                 count++;
             } else {
                 count = 1;
