@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/aric-chan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aric-chan/Leetcode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aric-chan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aric-chan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aric-chan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/aric-chan/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aric-chan/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/aric-chan/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aric-chan/Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/aric-chan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/aric-chan/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aric-chan/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aric-chan/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -198,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aric-chan/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aric-chan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
