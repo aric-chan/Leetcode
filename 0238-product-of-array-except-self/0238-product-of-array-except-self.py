@@ -5,7 +5,7 @@ class Solution:
         start = 0
         end = len(nums) - 1
         result = [1] * len(nums)
-        for _ in range (0, len(nums) - 1, 1) :
+        for _ in range (len(nums) - 1) :
             prefix[start + 1] = prefix[start] * nums[start]
             suffix[end - 1] = suffix[end] * nums[end]
             start += 1
