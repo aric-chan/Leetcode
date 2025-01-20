@@ -3,18 +3,11 @@ class Solution:
         word = dict()
         if len(s) != len(t) :
             return False
-        for index, character in enumerate (s) :
-            if character in word : 
-                word[character] += 1
-            else :
-                word[character] = 1
-        for index, character in enumerate (t) :
-            if character in word : 
-                word[character] -= 1
-            else :
+        for char in s :
+            word[char] = word.get(char, 0) + 1
+        for char in t :
+            if char not in word or word[char] == 0:
                 return False
-        for k, v in word.items() :
-            if v != 0 : 
-                return False
+            word[char] -= 1
         return True
         
