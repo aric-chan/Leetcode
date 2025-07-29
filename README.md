@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aric-chan/Leetcode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/aric-chan/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/aric-chan/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aric-chan/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aric-chan/Leetcode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/aric-chan/Leetcode/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/aric-chan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aric-chan/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aric-chan/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/aric-chan/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aric-chan/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/aric-chan/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/aric-chan/Leetcode/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/aric-chan/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aric-chan/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/aric-chan/Leetcode/tree/master/3194-find-words-containing-character) |
